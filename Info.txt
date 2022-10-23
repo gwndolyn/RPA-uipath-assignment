@@ -1,0 +1,15 @@
+Dear Chief Technological Officer,
+I am the Chief Information Officer (CIO) and the company 
+that I chose not to invest in is Vestas Wind Company.
+Vestas is a company that installs wind turbines across
+the globe to create sustainable wind energy for the world.
+The company has installed more wind power than anyone else.
+However, from the data I've extracted, I have determined that 
+the Debt-to-equity ratio trend has been increasing from 
+2017 to 2021 while the Earning-per-Share ratio has been 
+decreasing from 2017-2021. Hence, it is not advisable to
+invest in this company as the earnings overtime would decrease.
+
+
+I have attached the financial data graphs in the email
+for your reference.
